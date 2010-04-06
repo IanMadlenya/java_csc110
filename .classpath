@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AlphebeticalOrder"/>
+	<classpathentry kind="src" path="Asignment_1"/>
+	<classpathentry kind="src" path="Asignment_2"/>
+	<classpathentry kind="src" path="Average1"/>
+	<classpathentry kind="src" path="CircutBoard"/>
+	<classpathentry kind="src" path="First1"/>
+	<classpathentry kind="src" path="Input1"/>
+	<classpathentry kind="src" path="Input2numbers"/>
+	<classpathentry kind="src" path="LetterGrade"/>
+	<classpathentry kind="src" path="OutputGUI"/>
+	<classpathentry kind="src" path="ShippingCharges"/>
+	<classpathentry kind="src" path="SoftwareSales"/>
+	<classpathentry kind="src" path="TimeCalculator"/>
+	<classpathentry kind="src" path="Variable1"/>
+	<classpathentry kind="src" path="SpeedOfSound"/>
+	<classpathentry kind="src" path="SortedNames"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Variable1"/>
+</classpath>

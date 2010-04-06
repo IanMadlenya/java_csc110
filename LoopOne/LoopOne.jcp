@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>LoopOne</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="LoopTwo"/>
+		<item run="Loop2"/>
+		<item run="LoopOne"/>
+		<item run="SentinelLoop"/>
+		<item run="SentinelLoop2"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>LoopTwo</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>ForLoop.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Loop2.java</path>
+			</fileitem>
+			<fileitem>
+				<path>LoopOne.java</path>
+			</fileitem>
+			<fileitem>
+				<path>LoopTwo.java</path>
+			</fileitem>
+			<fileitem>
+				<path>SentinelLoop.java</path>
+			</fileitem>
+			<fileitem>
+				<path>SentinelLoop2.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
