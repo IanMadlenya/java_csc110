@@ -2,7 +2,7 @@
 
 <workspace_user>
 	<active_project>
-		<label>MoreLoopCode</label>
+		<label>Methods</label>
 	</active_project>
 	<projects>
 		<project>
@@ -66,6 +66,10 @@
 			<showfiles>false</showfiles>
 		</project>
 		<project>
+			<label>Methods</label>
+			<showfiles>false</showfiles>
+		</project>
+		<project>
 			<label>MoreLoopCode</label>
 			<showfiles>false</showfiles>
 		</project>
@@ -108,15 +112,9 @@
 	</projects>
 	<open_files>
 		<docitem>
-			<path>LoopOne\SentinelLoop2.java</path>
+			<path>Methods\PaintJobEstimator.java</path>
 			<source>true</source>
 			<index>0</index>
-			<active>false</active>
-		</docitem>
-		<docitem>
-			<path>MoreLoopCode\DistanceTraveled.java</path>
-			<source>true</source>
-			<index>1</index>
 			<active>true</active>
 		</docitem>
 	</open_files>

@@ -53,6 +53,9 @@
 			<path>LoopOne\LoopOne.jcp</path>
 		</project>
 		<project>
+			<path>Methods\Methods.jcp</path>
+		</project>
+		<project>
 			<path>MoreLoopCode\MoreLoopCode.jcp</path>
 		</project>
 		<project>
